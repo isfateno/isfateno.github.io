@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://isfateno.github.io/sitemap.html.gz
+Sitemap: https://isfateno.github.io/app/sitemap.html.gz
+Sitemap: https://isfateno.github.io/assets/sitemap.html.gz
+Sitemap: https://isfateno.github.io/css/sitemap.html.gz
+Sitemap: https://isfateno.github.io/includes/sitemap.html.gz
+Sitemap: https://isfateno.github.io/item/sitemap.html.gz
+Sitemap: https://isfateno.github.io/src/sitemap.html.gz
